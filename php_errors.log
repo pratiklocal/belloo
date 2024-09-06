@@ -1,0 +1,14 @@
+[06-Sep-2024 15:23:03 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:23:03 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:23:03 UTC] PHP Fatal error:  require(): Failed opening required '../assets/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:23:44 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:23:44 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:23:44 UTC] PHP Fatal error:  require(): Failed opening required '../assets/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:24:54 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:24:54 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:24:54 UTC] PHP Fatal error:  require(): Failed opening required '../assets/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theujahd/public_html/install/account.php on line 9
+[06-Sep-2024 15:38:51 UTC] [2024-09-06 15:38:51] Script started
+[06-Sep-2024 15:38:51 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 14
+[06-Sep-2024 15:38:51 UTC] PHP Warning:  require(../assets/includes/config.php): failed to open stream: No such file or directory in /home/theujahd/public_html/install/account.php on line 14
+[06-Sep-2024 15:38:51 UTC] PHP Fatal error:  require(): Failed opening required '../assets/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theujahd/public_html/install/account.php on line 14
+[06-Sep-2024 15:40:18 UTC] Script output: {"error":true,"message":"require(..\/assets\/includes\/config.php): failed to open stream: No such file or directory","file":"\/home\/theujahd\/public_html\/install\/account.php","line":20}
